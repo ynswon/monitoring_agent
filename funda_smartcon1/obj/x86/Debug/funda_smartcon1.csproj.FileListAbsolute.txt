@@ -1,0 +1,17 @@
+C:\repo_funda\funda_report\funda_smartcon1\bin\Debug\Newtonsoft.Json.dll
+C:\repo_funda\funda_report\funda_smartcon1\bin\Debug\funda_smartcon1.exe.config
+C:\repo_funda\funda_report\funda_smartcon1\bin\Debug\funda_smartcon1.exe
+C:\repo_funda\funda_report\funda_smartcon1\bin\Debug\funda_smartcon1.pdb
+C:\repo_funda\funda_report\funda_smartcon1\bin\Debug\funda_interface.dll
+C:\repo_funda\funda_report\funda_smartcon1\bin\Debug\funda_interface.pdb
+C:\repo_funda\funda_report\funda_smartcon1\bin\Debug\Newtonsoft.Json.pdb
+C:\repo_funda\funda_report\funda_smartcon1\obj\x86\Debug\funda_smartcon1.csprojResolveAssemblyReference.cache
+C:\repo_funda\funda_report\funda_smartcon1\obj\x86\Debug\funda_smartcon1.AcceptList.resources
+C:\repo_funda\funda_report\funda_smartcon1\obj\x86\Debug\funda_smartcon1.SmartconShortcut.resources
+C:\repo_funda\funda_report\funda_smartcon1\obj\x86\Debug\funda_smartcon1.LoginForm.resources
+C:\repo_funda\funda_report\funda_smartcon1\obj\x86\Debug\funda_smartcon1.SmartConForm.resources
+C:\repo_funda\funda_report\funda_smartcon1\obj\x86\Debug\funda_smartcon1.Properties.Resources.resources
+C:\repo_funda\funda_report\funda_smartcon1\obj\x86\Debug\funda_smartcon1.WebViewForm.resources
+C:\repo_funda\funda_report\funda_smartcon1\obj\x86\Debug\funda_smartcon1.csproj.GenerateResource.Cache
+C:\repo_funda\funda_report\funda_smartcon1\obj\x86\Debug\funda_smartcon1.exe
+C:\repo_funda\funda_report\funda_smartcon1\obj\x86\Debug\funda_smartcon1.pdb

@@ -1,0 +1,9 @@
+C:\work\funda_report\smart_updater\AutoSmartUpdater\obj\Release\SmartUpdater.exe
+C:\work\funda_report\smart_updater\AutoSmartUpdater\obj\Release\SmartUpdater.pdb
+C:\work\funda_report\smart_updater\AutoSmartUpdater\bin\Release\SmartUpdater.exe
+C:\work\funda_report\smart_updater\AutoSmartUpdater\bin\Release\SmartUpdater.pdb
+C:\work\funda_report\smart_updater\AutoSmartUpdater\obj\Release\AutoSmartUpdater.FrmMain.resources
+C:\work\funda_report\smart_updater\AutoSmartUpdater\obj\Release\AutoSmartUpdater.Properties.Resources.resources
+C:\work\funda_report\smart_updater\AutoSmartUpdater\obj\Release\funda_agent_updater.csproj.GenerateResource.Cache
+C:\repo_funda\funda_report\smart_updater\AutoSmartUpdater\obj\Release\SmartUpdater.exe
+C:\repo_funda\funda_report\smart_updater\AutoSmartUpdater\obj\Release\SmartUpdater.pdb

@@ -1,0 +1,13 @@
+C:\repo_funda\all\funda_report\funda_interface\obj\Debug\funda_interface.csprojResolveAssemblyReference.cache
+C:\repo_funda\all\funda_report\funda_interface\bin\Debug\funda_interface.dll
+C:\repo_funda\all\funda_report\funda_interface\bin\Debug\funda_interface.pdb
+C:\repo_funda\all\funda_report\funda_interface\bin\Debug\Newtonsoft.Json.dll
+C:\repo_funda\all\funda_report\funda_interface\bin\Debug\Newtonsoft.Json.pdb
+C:\repo_funda\all\funda_report\funda_interface\obj\Debug\funda_interface.dll
+C:\repo_funda\all\funda_report\funda_interface\obj\Debug\funda_interface.pdb
+C:\repo_funda\funda_report\funda_interface\bin\Debug\Newtonsoft.Json.dll
+C:\repo_funda\funda_report\funda_interface\bin\Debug\funda_interface.dll
+C:\repo_funda\funda_report\funda_interface\bin\Debug\funda_interface.pdb
+C:\repo_funda\funda_report\funda_interface\bin\Debug\Newtonsoft.Json.pdb
+C:\repo_funda\funda_report\funda_interface\obj\Debug\funda_interface.dll
+C:\repo_funda\funda_report\funda_interface\obj\Debug\funda_interface.pdb

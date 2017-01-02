@@ -1,0 +1,62 @@
+Start WepassPOS S/W
+before init
+0
+Update config branch version 8.
+Update config printer contype 0.
+Update config printer printer_type SERIAL.
+Update config printer printer_lpt LPT1.
+Update config printer printer_com COM1.
+Update config printer printer_baud 9600.
+Update config printer printer_option Normal.
+Update config printer printer_win_port Bypass.
+Update config printer opos_printer PRT1.
+Update config printer sps_port COM1.
+Update config printer sps_enable false.
+Update config shop testCount 0.
+Update config shop checkInByPhoneNum false.
+1
+2
+Update config shop display_message_setting 0.
+Update config shop clerk_side_image msg_clerk01.jpg.
+fail to clerk side message display setting.┃   위치: System.Drawing.Bitmap..ctor(String filename)┃   위치: POSGui.MsgFormManager.msg_display_setting()
+Update config shop guest_side_image msg_guest01.jpg.
+fail to guest side message display setting.┃   위치: System.Drawing.Bitmap..ctor(String filename)┃   위치: POSGui.MsgFormManager.msg_display_setting()
+3
+4
+Update config screen left 20.
+Update config screen right 20.
+after init
+read bizId
+DeviceID = 
+after dispBranchId
+after xmppClientConnect
+Start WepassPOS S/W
+before init
+0
+Update config branch version 8.
+1
+2
+fail to clerk side message display setting.┃   위치: System.Drawing.Bitmap..ctor(String filename)┃   위치: POSGui.MsgFormManager.msg_display_setting()
+fail to guest side message display setting.┃   위치: System.Drawing.Bitmap..ctor(String filename)┃   위치: POSGui.MsgFormManager.msg_display_setting()
+3
+4
+after init
+read bizId
+DeviceID = 
+after dispBranchId
+after xmppClientConnect
+Start WepassPOS S/W
+before init
+0
+Update config branch version 8.
+1
+2
+fail to clerk side message display setting.┃   위치: System.Drawing.Bitmap..ctor(String filename)┃   위치: POSGui.MsgFormManager.msg_display_setting()
+fail to guest side message display setting.┃   위치: System.Drawing.Bitmap..ctor(String filename)┃   위치: POSGui.MsgFormManager.msg_display_setting()
+3
+4
+after init
+read bizId
+DeviceID = 
+after dispBranchId
+after xmppClientConnect

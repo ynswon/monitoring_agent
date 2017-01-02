@@ -1,0 +1,16 @@
+bin\Debug\AutoSmartUpdater.exe
+bin\Debug\AutoSmartUpdater.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AutoSmartUpdater.FrmMain.resources
+obj\Debug\AutoSmartUpdater.Properties.Resources.resources
+obj\Debug\AutoSmartUpdater.csproj.GenerateResource.Cache
+obj\Debug\AutoSmartUpdater.exe
+obj\Debug\AutoSmartUpdater.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\AutoSmartUpdater.FrmMain.resources
+obj\Release\AutoSmartUpdater.Properties.Resources.resources
+obj\Release\AutoSmartUpdater.csproj.GenerateResource.Cache
+bin\Release\SmartUpdater.exe
+bin\Release\SmartUpdater.pdb
+obj\Release\SmartUpdater.exe
+obj\Release\SmartUpdater.pdb

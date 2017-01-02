@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://939.co.kr/wepass/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://939.co.kr/wepass/
+IDList=
+IconFile=http://939.co.kr/mastersoft.ico
+IconIndex=1

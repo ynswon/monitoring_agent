@@ -1,0 +1,35 @@
+﻿Build started 2013-12-12 오전 11:30:41.
+     1>Project "C:\Users\Ohoon\Downloads\pipe\plugin-src (1)\plugin.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\plugin.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\..\..\lib\iqx /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D FTSERLIBPLUGIN_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Plugin.cpp
+         Plugin.cpp
+     1>Plugin.cpp(21): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : 'localtime' 선언을 참조하십시오.
+     1>Plugin.cpp(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>Plugin.cpp(25): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : 'strcat' 선언을 참조하십시오.
+     1>Plugin.cpp(26): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : 'strcat' 선언을 참조하십시오.
+     1>Plugin.cpp(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>Plugin.cpp(39): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>Plugin.cpp(305): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ohoon\Downloads\pipe\plugin-src (1)\Release\plugin.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\plugin.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\Users\Ohoon\Downloads\pipe\plugin-src (1)\Release\plugin.pdb" /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ohoon\Downloads\pipe\plugin-src (1)\Release\plugin.lib" /MACHINE:X86 /DLL Release\Plugin.obj
+            C:\Users\Ohoon\Downloads\pipe\plugin-src (1)\Release\plugin.lib 라이브러리 및 C:\Users\Ohoon\Downloads\pipe\plugin-src (1)\Release\plugin.exp 개체를 생성하고 있습니다.
+         LINK : /LTCG를 지정했지만 코드를 생성할 필요가 없습니다. 명령줄에서 /LTCG를 제거하면 링커 성능이 향상됩니다.
+         plugin.vcxproj -> C:\Users\Ohoon\Downloads\pipe\plugin-src (1)\Release\plugin.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Ohoon\Downloads\pipe\plugin-src (1)\Release\plugin.dll;#2" /manifest Release\plugin.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\plugin.unsuccessfulbuild".
+         Touching "Release\plugin.lastbuildstate".
+     1>Done Building Project "C:\Users\Ohoon\Downloads\pipe\plugin-src (1)\plugin.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.56

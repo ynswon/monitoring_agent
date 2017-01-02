@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><menu>
+  <parsetype type="1">1</parsetype>
+  <receiptname>212-81-99954</receiptname>
+  <wepassname>위패스</wepassname>
+  <prepare>품명단가수량금액</prepare>
+  <start type="str">━━━━━━━━━━━━━━━━━━━━</start>
+  <stop type="str">━━━━━━━━━━━━━━━━━━━━</stop>
+  <amountcompare>합계</amountcompare>
+  <divamount>5000</divamount>
+  <printer>
+    <init>
+      <initbytes>27 64</initbytes>
+      <initbytes>27 33</initbytes>
+      <initbytes>27 112</initbytes>
+      <initbytes>27 61</initbytes>
+      <initbytes>29 33</initbytes>
+    </init>
+    <cutter>
+      <cutterbytes>27 109</cutterbytes>
+      <cutterbytes>27 105</cutterbytes>
+      <cutterbytes>29 86</cutterbytes>
+      <cutterbytes>29 40</cutterbytes>
+      <cutterbytes>27 83</cutterbytes>
+    </cutter>
+    <printdelay>500</printdelay>
+  </printer>
+  <removerb>false</removerb>
+  <parseidx twoline="false">
+    <nameidx>0</nameidx>
+    <countidx>2</countidx>
+    <priceidx>3</priceidx>
+    <unitpriceidx>1</unitpriceidx>
+  </parseidx>
+  <items>
+    <item num="0">콩국수</item>
+    <item num="0">콩국물</item>
+    <item num="0">칼국수사리</item>
+    <item num="0">제주오겹할인</item>
+    <item num="0">제육볶음</item>
+    <item num="0">오삼불고기</item>
+    <item num="0">볶음밥</item>
+    <item num="0">매운돼지갈비</item>
+    <item num="0">된장찌개</item>
+    <item num="0">돌게장정식</item>
+    <item num="0">공기밥</item>
+    <item num="0">점심특선</item>
+    <item num="0">소주</item>
+    <item num="1">삼계탕</item>
+    <item num="1">쭈꾸미</item>
+    <item num="1">간장게장정식</item>
+    <item num="1">간장게장대</item>
+    <item num="1">간장게장중</item>
+    <item num="1">감자전</item>
+    <item num="1">게딱지찜</item>
+    <item num="1">꽃게탕대</item>
+    <item num="1">꽃게탕중</item>
+    <item num="1">낙지볶음</item>
+    <item num="1">매운탕</item>
+    <item num="1">양념게장대</item>
+    <item num="1">양념게장중</item>
+    <item num="1">제주목삼겹</item>
+    <item num="1">제주오겹살</item>
+    <item num="1">해물닭볶음탕</item>
+    <item num="1">해물찜대</item>
+    <item num="1">해물찜중</item></items>
+</menu>

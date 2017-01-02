@@ -1,0 +1,11 @@
+D:\CSharpProject\SmartUpdater\AutoSmartUpdater\bin\Debug\SmartUpdater.exe
+D:\CSharpProject\SmartUpdater\AutoSmartUpdater\bin\Debug\SmartUpdater.pdb
+D:\CSharpProject\SmartUpdater\AutoSmartUpdater\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpProject\SmartUpdater\AutoSmartUpdater\obj\Debug\AutoSmartUpdater.FrmMain.resources
+D:\CSharpProject\SmartUpdater\AutoSmartUpdater\obj\Debug\AutoSmartUpdater.Properties.Resources.resources
+D:\CSharpProject\SmartUpdater\AutoSmartUpdater\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CSharpProject\SmartUpdater\AutoSmartUpdater\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\CSharpProject\SmartUpdater\AutoSmartUpdater\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CSharpProject\SmartUpdater\AutoSmartUpdater\obj\Debug\GenerateResource-ResGen.write.4.tlog
+D:\CSharpProject\SmartUpdater\AutoSmartUpdater\obj\Debug\SmartUpdater.exe
+D:\CSharpProject\SmartUpdater\AutoSmartUpdater\obj\Debug\SmartUpdater.pdb

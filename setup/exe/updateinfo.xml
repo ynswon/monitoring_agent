@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="EUC-KR" ?>
+<updateinfo>	
+	<version isbackup="false">1.0.3.0</version>
+	<executionfile>FundaAgent.exe</executionfile>
+	<!-- Update할 파일 정보   -->
+	<filelist>
+		<file>http://14.63.215.51:880/update_funda_agent/FundaAgent.exe</file>
+	</filelist>	
+	<!-- backup은 일단 무시  -->
+</updateinfo>

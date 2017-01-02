@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AutoSmartUpdater">
+</Property><Property Name="솔루션 파일" Value="\\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\AutoSmartUpdater.sln">
+</Property><Property Name="사용자 옵션 파일" Value="\\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\AutoSmartUpdater.suo">
+</Property><Property Name="Date" Value="2012년 7월 9일 월요일">
+</Property><Property Name="Time" Value="오후 13:41">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AutoSmartUpdater.sln" Description="파일을 \\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\Backup\AutoSmartUpdater.sln(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="AutoSmartUpdater.suo" Description="파일을 \\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\Backup\AutoSmartUpdater.suo(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoSmartUpdater" Source="AutoSmartUpdater\AutoSmartUpdater.csproj" Description="프로젝트 파일을 \\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\Backup\AutoSmartUpdater\AutoSmartUpdater.csproj(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoSmartUpdater" Source="AutoSmartUpdater\AutoSmartUpdater.csproj.user" Description="프로젝트 사용자 파일을 \\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\Backup\AutoSmartUpdater\AutoSmartUpdater.csproj.user(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoSmartUpdater" Source="AutoSmartUpdater\FrmMain.cs" Description="파일을 \\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\Backup\AutoSmartUpdater\FrmMain.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoSmartUpdater" Source="AutoSmartUpdater\FrmMain.Designer.cs" Description="파일을 \\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\Backup\AutoSmartUpdater\FrmMain.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoSmartUpdater" Source="AutoSmartUpdater\Program.cs" Description="파일을 \\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\Backup\AutoSmartUpdater\Program.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoSmartUpdater" Source="AutoSmartUpdater\Properties\AssemblyInfo.cs" Description="파일을 \\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\Backup\AutoSmartUpdater\Properties\AssemblyInfo.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoSmartUpdater" Source="AutoSmartUpdater\Properties\Resources.Designer.cs" Description="파일을 \\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\Backup\AutoSmartUpdater\Properties\Resources.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoSmartUpdater" Source="AutoSmartUpdater\Properties\Settings.Designer.cs" Description="파일을 \\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\Backup\AutoSmartUpdater\Properties\Settings.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoSmartUpdater" Source="AutoSmartUpdater\Properties\Settings.settings" Description="파일을 \\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\Backup\AutoSmartUpdater\Properties\Settings.settings(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoSmartUpdater" Source="AutoSmartUpdater\ico\connect.gif" Description="파일을 \\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\Backup\AutoSmartUpdater\ico\connect.gif(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoSmartUpdater" Source="AutoSmartUpdater\ico\check.gif" Description="파일을 \\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\Backup\AutoSmartUpdater\ico\check.gif(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoSmartUpdater" Source="AutoSmartUpdater\ico\download.gif" Description="파일을 \\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\Backup\AutoSmartUpdater\ico\download.gif(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoSmartUpdater" Source="AutoSmartUpdater\ico\complete.gif" Description="파일을 \\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\Backup\AutoSmartUpdater\ico\complete.gif(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoSmartUpdater" Source="AutoSmartUpdater\main.ico" Description="파일을 \\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\Backup\AutoSmartUpdater\main.ico(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoSmartUpdater" Source="AutoSmartUpdater\FrmMain.resx" Description="파일을 \\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\Backup\AutoSmartUpdater\FrmMain.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoSmartUpdater" Source="AutoSmartUpdater\Properties\Resources.resx" Description="파일을 \\psf\Home\Desktop\test\SmartUpdateChecker\AutoSmartUpdater\Backup\AutoSmartUpdater\Properties\Resources.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="1" Project="AutoSmartUpdater" Source="AutoSmartUpdater\AutoSmartUpdater.csproj" Description="프로젝트가 .NET Framework 2.0 또는 3.0을 대상으로 합니다. 프로젝트에서 최신 .NET Framework를 필요로 하는 어셈블리를 사용하는 경우 프로젝트를 빌드할 수 없습니다. 프로젝트 메뉴에서 [속성]을 클릭하고 '.NET Framework' 드롭다운 상자에서 새 버전을 선택하면 .NET Framework 버전을 변경할 수 있습니다. Visual Basic의 경우 이 옵션이 '고급 컴파일러 옵션...' 단추를 클릭하면 나타나는 [컴파일] 탭에 있습니다.">
+</Event><Event ErrorLevel="0" Project="AutoSmartUpdater" Source="AutoSmartUpdater\AutoSmartUpdater.csproj" Description="프로젝트를 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="AutoSmartUpdater" Source="AutoSmartUpdater\AutoSmartUpdater.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AutoSmartUpdater.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="AutoSmartUpdater.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AutoSmartUpdater" Source="AutoSmartUpdater\AutoSmartUpdater.csproj" Description="검사 완료: 프로젝트 파일을 업그레이드할 필요가 없습니다.">
+</Event></UpgradeLog>
